@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "ok_glados",
   "author": "Polygonale",
-  "website": "https://www.polygonale.com",
+  "website": "https://github.com/polygonale/micro-wake-word/tree/main/ok_glados",
   "model": "ok_glados.tflite",
   "trained_languages": ["en"],
   "version": 2,
