@@ -1,9 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "glados",
+  "wake_word": "ok_glados",
   "author": "Polygonale",
   "website": "https://www.polygonale.com",
-  "model": "OK_GLaDOS.tflite",
+  "model": "ok_glados.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
