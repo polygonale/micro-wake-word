@@ -3,7 +3,7 @@
   "wake_word": "ok_glados",
   "author": "Polygonale",
   "website": "https://www.polygonale.com",
-  "model": "ok_glados.tflite",
+  "model": "https://github.com/polygonale/micro-wake-word/raw/refs/heads/main/ok_glados/ok_glados.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
